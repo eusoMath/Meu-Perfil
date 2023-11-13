@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: none;
+}
+
+h1, h2, h5 {
+    color: #253326;
+}
+
+p {
+    color: #475248;
+}
