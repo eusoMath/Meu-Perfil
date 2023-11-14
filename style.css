@@ -4,6 +4,10 @@
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: none;
+    text-decoration: none;
+    text-overflow: none;
+    text-transform: none;
+    text-rendering: none;
 }
 
 h1, h2, h5 {
